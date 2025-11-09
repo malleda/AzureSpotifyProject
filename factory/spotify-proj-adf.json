@@ -1,0 +1,9 @@
+{
+	"name": "spotify-proj-adf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b86c1c05-4070-490f-a197-7ca7c7317f9d",
+		"tenantId": "2bc1eeb4-18e0-4908-91fa-975a0297ebf6"
+	}
+}
